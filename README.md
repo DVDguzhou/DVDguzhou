@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi I'm DVDguzhou(ricky) 👋
 
+- 🧑🏻‍💻 Web full-stack developer focused on TypeScript & Node.js
+- 🔁 Experience across reverse engineering, automation, and protocol reproduction
+- 🧠 Strong focus on code quality, architecture, and long-term maintainability
+- ✍️ Driven by "Learn by Doing", learning from open source and giving back
 <!--
 **DVDguzhou/DVDguzhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
