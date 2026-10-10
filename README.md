@@ -1,4 +1,4 @@
-## Hi I'm DVDguzhou(ricky) 👋
+## Hi, I'm DVDguzhou (ricky) 👋
 
 - 🧑🏻‍💻 Web full-stack developer focused on TypeScript & Node.js
 - 🔁 Experience across reverse engineering, automation, and protocol reproduction
